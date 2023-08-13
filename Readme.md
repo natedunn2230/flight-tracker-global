@@ -1,6 +1,6 @@
 # Flight Tracker Global
 
-Author: [Nathan Dunn](https//www.nathandunn.me)
+Author: [Nathan Dunn](https://www.nathandunn.me)
 
 ## Setup
 
