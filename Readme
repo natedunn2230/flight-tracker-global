@@ -1,8 +1,8 @@
-# Flight Tracker Global
+#Flight Tracker Global
 
 Author: [Nathan Dunn](ndunn2230@gmail.com)
 
-## Setup
+##Setup
 
 * Download Nix. See https://nixos.org/download.html.
 * Run the nix development shell, in the parent directory of the project: `nix-shell`
