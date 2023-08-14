@@ -1,7 +1,11 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-const routes: Routes = [];
+import GlobalSceneComponent from './global-scene/global-scene.component';
+
+const routes: Routes = [
+  {'path': 'globe', component: GlobalSceneComponent}
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
