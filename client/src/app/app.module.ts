@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { GlobeModule } from './global-scene/global-scene.component.';
+import { GlobeModule } from './global-scene/global-scene.module';
 
 @NgModule({
   declarations: [
